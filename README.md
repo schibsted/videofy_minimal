@@ -4,6 +4,8 @@ Videofy Minimal is a local tool for turning news articles into short videos for 
 
 It fetches article content, generates a short manuscript, matches visuals, produces narration, and renders a final video through a review flow in the CMS UI.
 
+Here is an example video from one of our brands: [example_video_e24.mp4](./example_video_e24.mp4)
+
 This repository is designed to run on a laptop with only OpenAI and ElevenLabs credentials. It keeps the core workflow, but leaves out most of the internal integrations and infrastructure used in Schibsted's full Videofy setup.
 
 Found a problem or want to chat about the project? Open an issue or join our [Discord server](https://discord.gg/vFvvdC3B)
