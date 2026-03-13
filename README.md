@@ -10,7 +10,7 @@ Here is an example video from one of our brands: [example_video_e24.mp4](./examp
 
 This repository is designed to run on a laptop with only OpenAI and ElevenLabs credentials. It keeps the core workflow, but leaves out most of the internal integrations and infrastructure used in Schibsted's full Videofy setup.
 
-Found a problem or want to chat about the project? Open an issue or join our [Discord server](https://discord.gg/vFvvdC3B)
+Found a problem or want to chat about the project? Open an issue or join our [Discord server](https://discord.gg/HkqpaKFjQb)
 
 ## What It Does
 
